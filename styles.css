@@ -1,0 +1,54 @@
+*{
+    
+    font-family: poppins, sans-serif;
+}
+
+
+ul li {
+    list-style: none;
+    text-decoration: none;
+}
+a{
+   text-decoration: none;
+}
+
+.link-container{
+
+justify-content: center;}
+
+.primary-button{
+display: flex;
+justify-content: center;
+
+}
+.inputbox {
+  border: 2px solid black;
+  border-radius: 5px;
+
+ 
+ 
+}
+.inputbox input {
+
+  padding: 15px;
+  font-size: 15px;
+  border: none;
+  outline: none;
+}
+
+
+  
+
+
+.button{
+  border-radius: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+
+}
+
+.main-footer{
+      background-color: beige;
+  padding: 10px;
+ 
+}
